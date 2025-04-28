@@ -1,70 +1,68 @@
 
 
-### **History of GenAI**
-- **Book**: [*Artificial Intelligence: A Guide for Thinking Humans* by Melanie Mitchell](https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/0374257835)
-- **Article**: [A Brief History of Generative AI](https://towardsdatascience.com/history-of-generative-ai-gan-rnn-vae-transformer-dd2436a3e1f1)
-- **Video**: [The Evolution of Generative AI](https://www.youtube.com/watch?v=Z1cxM6tv2k4)
+### **Mini-Courses & Crash Courses**  
+1. **[Generative AI Mini-Course](https://youtu.be/d4yCWBGFCEs?si=X4wgsHdlXcHQjjI1)**  
+   - **Focus**: Broad introduction to GenAI.  
+   - **Best for**: Beginners wanting a quick overview.  
+   - **Pair with**: [Google’s GenAI Course](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources) (free).  
+
+2. **[Simplilearn’s GenAI Course](https://youtu.be/HfRwJFk66dc?si=OLZ8tZiRikOqxdUV)**  
+   - **Focus**: Industry-aligned GenAI concepts.  
+   - **Best for**: Intermediate learners.  
+   - **Pair with**: [Hugging Face’s NLP Course](https://huggingface.co/course/) (hands-on).  
+
+3. **[freeCodeCamp’s ML Course](https://youtu.be/nJ25yl34Uqw?si=2aMWKpC5kL1jv37T)**  
+   - **Focus**: Machine Learning fundamentals.  
+   - **Best for**: Absolute beginners.  
+   - **Pair with**: [Kaggle’s Python Course](https://www.kaggle.com/learn/python) (prerequisites).  
 
 ---
 
-### **Types of Generative Models**
-- **Book**: [*Generative Deep Learning* by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041949/)
-- **Course**: [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning) (especially Course 5 on GANs and RNNs)
-- **Tutorial**: [Generative Models Explained](https://arxiv.org/abs/1701.00160) (VAE, GAN, Autoregressive Models)
+### **Machine Learning Basics**  
+1. **Krish Naik’s Channel** ([English](https://www.youtube.com/@krishnaik06) | [Hindi](https://www.youtube.com/@krishnaikhindi))  
+   - **Key Playlists**:  
+     - [ML Algorithms Explained](https://youtube.com/playlist?list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)  
+     - [Math for ML](https://youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)  
+   - **Best for**: Beginners preferring code-along tutorials.  
+
+2. **Unsupervised Learning** ([Video](https://youtu.be/Aa4MACKaDC0?si=md2n5-0PYeWiM71e))  
+   - **Pair with**:  
+     - [Hands-on Clustering (Scikit-Learn)](https://scikit-learn.org/stable/modules/clustering.html)  
+     - Book: "Pattern Recognition and Machine Learning" (Bishop) for theory.  
 
 ---
 
-### **Applications of GenAI**
-- **Article**: [10 Real-World Applications of Generative AI](https://www.forbes.com/sites/bernardmarr/2023/05/05/10-amazing-real-world-examples-of-generative-ai-in-action/)
-- **Video**: [How GenAI is Transforming Industries](https://www.youtube.com/watch?v=YH0LfYgrJ5M)
+### **Neural Networks & Deep Learning**  
+1. **[Neural Networks Explained](https://youtu.be/aircAruvnKk?si=Onwjxa_6yNSgyW8a)** (3Blue1Brown)  
+   - **Focus**: Visual intuition.  
+   - **Best for**: Beginners struggling with math.  
+
+2. **StatQuest’s Neural Networks** ([Playlist](https://www.youtube.com/@statquest/search?query=neural%20networks))  
+   - **Focus**: Clear, statistics-backed explanations.  
+   - **Best for**: Intermediate learners.  
+
+3. **RNNs Playlist** ([Link](https://youtube.com/playlist?list=PLGP2q2bIgaNzBBpxxNUf126chLsQ20dfG&si=M_9DyQZJkwthIwf4))  
+   - **Pair with**:  
+     - [LSTM Paper](https://arxiv.org/abs/1808.03314) (advanced).  
+     - [Transformer Tutorial](https://youtu.be/U0s0f995w14) (next step after RNNs).  
 
 ---
 
-### **Ethical Considerations**
-- **Book**: [*Weapons of Math Destruction* by Cathy O’Neil](https://www.amazon.com/Weapons-Math-Destruction-Dangerous-Algorithms/dp/0553418825)
-- **Course**: [AI Ethics (Udacity)](https://www.udacity.com/course/ai-ethics--ud260)
-- **Framework**: [MIT’s Moral Machine](https://www.moralmachine.net/)
+### **Hands-On Practice**  
+- **After Krish Naik’s Videos**: Try [ML Project Ideas](https://www.kaggle.com/search?q=tag%3A%22beginner%22+in%3Acompetitions).  
+- **After RNNs**: Build a chatbot using [TensorFlow’s Seq2Seq](https://www.tensorflow.org/text/tutorials/nmt_with_attention).  
 
 ---
 
-### **Core Machine Learning Topics**  
-#### *Supervised/Unsupervised/Reinforcement Learning*
-- **Book**: [*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- **Course**: [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
-
-#### *Bias-Variance Tradeoff*
-- **Article**: [Understanding the Tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
-
-#### *Overfitting & Regularization*
-- **Video**: [Regularization Explained](https://www.youtube.com/watch?v=Q81RR3yKn30)
+### **Advanced Extensions**  
+1. **For Math Lovers**:  
+   - [Backpropagation Calculus](https://youtu.be/tIeHLnjs5U8) (MIT OpenCourseWare).  
+2. **For Research Aspirants**:  
+   - [Arxiv Sanity](http://www.arxiv-sanity.com/) (latest GenAI papers).  
 
 ---
 
-### **Neural Networks Fundamentals**
-- **Book**: [*Neural Networks and Deep Learning* by Michael Nielsen (free online)](http://neuralnetworksanddeeplearning.com/)
-- **Guide**: [Activation Functions Explained](https://arxiv.org/abs/1811.03378)
-- **Tutorial**: [Optimization Algorithms (e.g., SGD, Adam)](https://ruder.io/optimizing-gradient-descent/)
+### **Community & Support**  
+- **Q&A**: Join [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/).  
+- **Debugging Help**: [Stack Overflow (ML Tag)](https://stackoverflow.com/questions/tagged/machine-learning).  
 
----
-
-### **Deep Learning Essentials**
-#### *Backpropagation*
-- **Video**: [Backpropagation in 3 Minutes](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
-- **Interactive Tool**: [Playground.Tensorflow.org](https://playground.tensorflow.org/)
-
-#### *CNNs & RNNs*
-- **Course**: [CS231n (Stanford)](http://cs231n.stanford.edu/) (CNNs)
-- **Article**: [Understanding RNNs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
----
-
-### **Model Evaluation Metrics**
-- **Cheatsheet**: [Metrics for Classification/Regression](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
-
----
-
-### **Bonus: Hands-On Practice**
-- **Platform**: [Kaggle](https://www.kaggle.com/) (for datasets and competitions)
-- **Library**: [Hugging Face](https://huggingface.co/) (pre-trained generative models)
-
----
